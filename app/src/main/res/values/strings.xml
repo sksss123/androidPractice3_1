@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="sample">Sample</string>
+    <string name="edit">EDIT</string>
+    <string name="text2"></string>
+    <string name="OK">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="act">ActEdit</string>
+</resources>
